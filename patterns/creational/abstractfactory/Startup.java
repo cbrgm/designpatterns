@@ -1,11 +1,5 @@
 package patterns.creational.abstractfactory;
 
-import abstractfactory.ConcreteFactoryA;
-import abstraction.AbstractFactory;
-import abstraction.Product1;
-import abstraction.Product2;
-import abstraction.Product3;
-
 /**
  * @author Christian Bargmann <christian.bargmann@haw-hamburg.de>
  * @version 08.12.2016

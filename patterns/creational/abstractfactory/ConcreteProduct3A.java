@@ -1,7 +1,5 @@
 package patterns.creational.abstractfactory;
 
-import abstraction.Product3;
-
 /**
  * @author Christian Bargmann <christian.bargmann@haw-hamburg.de>
  * @version 08.12.2016

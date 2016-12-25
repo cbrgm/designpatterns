@@ -1,8 +1,5 @@
 package patterns.creational.prototype;
 
-import abstraction.ConcretePrototypeA;
-import abstraction.PrototypeFactory;
-
 /**
  * @author Christian Bargmann <christian.bargmann@haw-hamburg.de>
  * @version 08.12.2016

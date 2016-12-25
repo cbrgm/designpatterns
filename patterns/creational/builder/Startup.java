@@ -1,7 +1,5 @@
 package patterns.creational.builder;
 
-import builderpattern.Director;
-
 /**
  * @author Christian Bargmann <christian.bargmann@haw-hamburg.de>
  * @version 08.12.2016
