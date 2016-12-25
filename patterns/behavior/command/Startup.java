@@ -19,11 +19,14 @@ public class Startup {
 		ReceiverA empfaengerA = new ReceiverA();
 		ReceiverB empfaengerB = new ReceiverB();
 
+		// Befehle hinzufuegen
 		aufrufer.setCommand1(new ConcreteCommandA(empfaengerA));
 		aufrufer.setCommand2(new ConcreteCommandB(empfaengerB));
 		aufrufer.setCommand3(new ConcreteCommandB(empfaengerB));
 
+		// Befehle ausfuehren
 		aufrufer.doCommand1();
+		aufrufer.doCommand2();
 
 	}
 
