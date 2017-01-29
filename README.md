@@ -1,9 +1,9 @@
-# Eine Sammlung von Entwurfsmustern (Design Patterns) in Java
+# Entwurfsmuster (Design Patterns) in Java
 Eine Sammlung diverser Entwurfsmuster in Java - javadesignpatterns.de
 
 ## Inhalt
 
-- Patterns
+* Patterns
 .. * Behavior
 ..* Creational
 .. * Structural
