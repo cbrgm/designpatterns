@@ -4,6 +4,6 @@ Eine Sammlung diverser Entwurfsmuster in Java - javadesignpatterns.de
 ## Inhalt
 
 * Patterns
-.. * Behavior
+..* Behavior
 ..* Creational
-.. * Structural
+..* Structural
