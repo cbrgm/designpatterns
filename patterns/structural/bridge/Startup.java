@@ -13,7 +13,17 @@ public class Startup {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
+		Abstraction object = new Abstraction(new ConcreteImplA());
+		object.operation();
+
+		object = new Abstraction(new ConcreteImplB());
+		object.operation();
+
+		System.out.println();
+
+		SpecialAbstraction specObject = new SpecialAbstraction(new ConcreteImplA());
+		specObject.loopOperation(5);
 
 	}
 
