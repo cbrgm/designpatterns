@@ -89,7 +89,6 @@ public class Produkt {
 	 *            the lagerNo to set
 	 */
 	public void setLagerNo(int lagerNo) {
-		assert lagerNo != null : "Vorbedingung verletzt: lagerNo != null!";
 
 		this.lagerNo = lagerNo;
 	}
@@ -102,7 +101,6 @@ public class Produkt {
 	 *            the preis to set
 	 */
 	public void setPreis(float preis) {
-		assert preis != null : "Vorbedingung verletzt: preis != null!";
 
 		this.preis = preis;
 	}
@@ -128,7 +126,6 @@ public class Produkt {
 	 *            the produktid to set
 	 */
 	public void setProduktid(int produktid) {
-		assert produktid != null : "Vorbedingung verletzt: produktid != null!";
 
 		this.produktid = produktid;
 	}
